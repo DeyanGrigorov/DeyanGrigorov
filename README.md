@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeyanGrigorov
-- 👀 I’m interested in Web Development, Python, Django, JS, Java and many more...
-- 🌱 I’m currently learning Web Development
+- 👀 I love coding in Python, JS, and many more...
+- 🌱 I graduated as a Python Web Developer, and am curently working as a CloudOps software engineer.
 - 📫 How to reach me: linkedin profile: www.linkedin.com/in/deyan-grigorov-967848213
 
 
