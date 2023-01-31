@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @DeyanGrigorov
 - 👀 I love coding in Python, JS, and many more...
 - 🌱 I graduated as a Python Web Developer, and am curently working as a CloudOps software engineer.
-- 📫 How to reach me: linkedin profile: www.linkedin.com/in/deyan-grigorov-967848213
+- 📫 How to reach me: 
+- linkedin profile: www.linkedin.com/in/deyan-grigorov-967848213
+- email account: grigorow.deyan@gmail.com
 
 
 
